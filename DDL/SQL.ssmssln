@@ -5,13 +5,19 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DDL", "DDL.ssmssqlproj", "{E4FDD6C8-8767-40F2-A72B-A07AC754A0FA}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Select", "..\Select\Select.ssmssqlproj", "{EA56FF59-C35C-430E-81DA-D8703622E8EE}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Transact-SQL", "..\Transact-SQL\Transact-SQL.ssmssqlproj", "{EE62BB87-8E4C-4722-9F8A-42ECDE664E7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B014DB27-0474-496B-B40B-1914B8428D40}.Default|Default.ActiveCfg = Default
 		{E4FDD6C8-8767-40F2-A72B-A07AC754A0FA}.Default|Default.ActiveCfg = Default
+		{8C211DE6-A669-4D4B-A773-81363203538F}.Default|Default.ActiveCfg = Default
+		{EA56FF59-C35C-430E-81DA-D8703622E8EE}.Default|Default.ActiveCfg = Default
+		{EE62BB87-8E4C-4722-9F8A-42ECDE664E7A}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Select">
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Transact-SQL">
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
         <ConnectionNode Name="DESKTOP-7A73DGD\SQLEXPRESS:DESKTOP-7A73DGD\aztec">
-          <Created>2024-03-21T09:50:00.0583173+04:00</Created>
+          <Created>2024-03-21T11:40:38.5167565+04:00</Created>
           <Type>SQL</Type>
           <Server>DESKTOP-7A73DGD\SQLEXPRESS</Server>
           <UserName />
@@ -19,53 +19,35 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="HW1 SQLQuery - Count Students on Directions.sql">
+        <FileNode Name="SQLQuery1.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-7A73DGD\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-7A73DGD\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>HW1 SQLQuery - Count Students on Directions.sql</FullPath>
+          <FullPath>SQLQuery1.sql</FullPath>
         </FileNode>
-        <FileNode Name="HW1 SQLQuery - Count Teachers on Disciplines.sql">
+        <FileNode Name="SQLQuery2 CREATE PROCEDURE.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-7A73DGD\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-7A73DGD\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>HW1 SQLQuery - Count Teachers on Disciplines.sql</FullPath>
+          <FullPath>SQLQuery2 CREATE PROCEDURE.sql</FullPath>
         </FileNode>
-        <FileNode Name="HW1 SQLQuery - Disciplines Directions.sql">
+        <FileNode Name="SQLQuery2 SCHEDULE.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-7A73DGD\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-7A73DGD\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>HW1 SQLQuery - Disciplines Directions.sql</FullPath>
+          <FullPath>SQLQuery2 SCHEDULE.sql</FullPath>
         </FileNode>
-        <FileNode Name="HW1 SQLQuery - Groups size.sql">
+        <FileNode Name="SQLQuery3 DELETE DATA.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-7A73DGD\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-7A73DGD\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>HW1 SQLQuery - Groups size.sql</FullPath>
+          <FullPath>SQLQuery3 DELETE DATA.sql</FullPath>
         </FileNode>
-        <FileNode Name="HW1 SQLQuery - SELECT Students Direction.sql">
+        <FileNode Name="SQLQuery9 FUNCTION isCelebration.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-7A73DGD\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-7A73DGD\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>HW1 SQLQuery - SELECT Students Direction.sql</FullPath>
-        </FileNode>
-        <FileNode Name="HW1 SQLQuery - SELECT Teachers Disciplines.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-7A73DGD\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-7A73DGD\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>HW1 SQLQuery - SELECT Teachers Disciplines.sql</FullPath>
-        </FileNode>
-        <FileNode Name="HW1 SQLQuery - SELECT Teachers for disciplines.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-7A73DGD\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-7A73DGD\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>HW1 SQLQuery - SELECT Teachers for disciplines.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQuery - LIKE.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-7A73DGD\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-7A73DGD\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>SQLQuery - LIKE.sql</FullPath>
+          <FullPath>SQLQuery9 FUNCTION isCelebration.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
